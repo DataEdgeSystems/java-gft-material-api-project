@@ -1,0 +1,9 @@
+*.class
+*.war
+*.jar
+
+bin
+.classpath
+.settings
+.springbeans
+target
