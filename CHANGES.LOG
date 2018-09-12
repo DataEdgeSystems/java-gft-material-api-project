@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------
+Changes Made by - Khozema Nullwala on 14th August 2018
+---------------------------------------------------------------------------------------
+1. Added the CHANGES.LOG file to describe the changes.
+2. Converted the project into a git repository and added .gitignore file.
+3. Modified pom.xml file to package the application into a war.
+4. Modified MaterialServiceApplication for deploying the application on any web container
+5. Added the data.sql file inside the resources folder.
+6. Modified the application.properties file for database, hibernate and added a context path. 
+7. Added sonar-project.properties file for static code analysis
+8. Added a simple test class for demonstration purpose
+---------------------------------------------------------------------------------------
+Changes Made by - Khozema Nullwala on 12th September 2018
+---------------------------------------------------------------------------------------
+1. Modified the project to work as Spring Boot Starter Template Project for Material Service
+2. Removed the data.sql file from the resources folder
